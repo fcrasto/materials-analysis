@@ -1,0 +1,6 @@
+0          # SOC 0 ou 1
+1          # ispin 1 ou 2
+-1.0372    # nível de Fermi
+0.223363860  0.128959185  0.000000000  #Reciprocal vectors 
+0.000000000  0.257918369  0.000000000  #contained in
+0.000000000  0.000000000  0.062500000  #the OUTCAR file

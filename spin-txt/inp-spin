@@ -1,0 +1,27 @@
+1         # ISPIN, choose 1 for SO
+1         # 1: SO, 2:no_SO
+11        # LORBIT
+-2.1818   # e_fermi
+1         # n0 - first atom to include
+6         # nf  - to include. 0 to skip
+0         # n02 - second range of atoms 
+0         # nf2 - to include. 0 to skip
+0         # n03 - second range of atoms
+0         # nf3 - to include. 0 to skip
+0         # n04 - second range of atoms
+0         # nf4 - to include. 0 to skip
+0         # n05 - second range of atoms
+0         # nf5 - to include. 0 to skip
+0.2       # percentage of orbital to include
+.true.    # orb_s
+.true.    # orb_px
+.true.    # orb_py
+.true.    # orb_pz
+.true.    # orb_dxy
+.true.    # orb_dyz
+.true.    # orb_dz2
+.true.    # orb_dxz
+.true.    # orb_dx2
+0.223363860  0.128959185  0.000000000
+0.000000000  0.257918369  0.000000000
+0.000000000  0.000000000  0.062500000
